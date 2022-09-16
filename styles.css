@@ -1,0 +1,26 @@
+
+    .postcard-body {
+        display: flex;
+    }
+    
+    .body-left :first-child {
+        margin-top: 0;
+    }
+    
+    .body-right {
+        padding: 10px;
+    }
+    
+    input {
+        border: none;
+        border-bottom: 1px grey;
+    }
+    
+    .postcard-footer {
+        text-align: center
+    }
+    
+    button {
+        background-color: rgb(168, 173, 173);
+        pad: 5px 10px;
+    }
